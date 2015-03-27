@@ -1,4 +1,4 @@
-cd ~/Documents/Project_Euler/
+#cd ~/Documents/Project_Euler/
 echo "Number of directories"
 read nums
 if [ $nums -gt 9 ]
